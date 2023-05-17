@@ -1,0 +1,13 @@
+////////////////////
+The program uses bits of code from
+https://www.codeproject.com/Articles/1264257/Socket-Programming-in-Cplusplus-using-boost-asio-T
+
+Under the license the code has been published it can be used either in its original or modified
+form, free of charge for both commercial and non-commercial projects. The license also permits
+to modify and adapt the code to one's needs, which I have done so in my project.
+
+Copy of the licence can be found here: https://www.codeproject.com/info/cpol10.aspx
+////////////////////
+
+
+All other code is my own work unless otherwise stated in code in the form of a comment.
