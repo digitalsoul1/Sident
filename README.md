@@ -10,8 +10,8 @@ dates back to February 1993 and is published by the US Ministry of Defense.
 Below are the required system packages for a successful build
 * Cmake 
   * Ubuntu / Debian: sudo apt-get install cmake
-* RHEL / Fedora: sudo dnf install cmake
-  * libboost >= 1.58 (this was the lowest version tested)
+  * RHEL / Fedora: sudo dnf install cmake
+* libboost >= 1.58 (this was the lowest version tested)
   * Ubuntu / Debian: sudo apt-get install libboost-dev-all
   * RHEL / Fedora: sudo dnf install boost-devel
 * lsof - this utility is installed by default on major Linux distributions
